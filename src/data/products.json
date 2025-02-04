@@ -1,0 +1,328 @@
+[
+    {
+      "id": 1,
+      "group": "groupA",
+      "name": "HAVIT HV-G92 Gamepad",
+      "price": 120,
+      "originalPrice": 160,
+      "discount": 40,
+      "rating": [
+        "src/assets/yellow-star.svg",
+        "src/assets/yellow-star.svg",
+        "src/assets/yellow-star.svg",
+        "src/assets/yellow-star.svg",
+        "src/assets/yellow-star.svg"
+      ],
+      "reviews": 88,
+      "image": "src/assets/HAVIT HV-G92 Gamepad.svg",
+      "type": "product",
+      "category": "Gaming"
+    },
+    {
+      "id": 2,
+      "group": "groupA",
+      "name": "AK-900 Wired Keyboard",
+      "price": 960,
+      "originalPrice": 1160,
+      "discount": 35,
+      "rating": [
+        "src/assets/yellow-star.svg",
+        "src/assets/yellow-star.svg",
+        "src/assets/yellow-star.svg",
+        "src/assets/yellow-star.svg",
+        "src/assets/gray-star.svg"
+      ],
+      "reviews": 75,
+      "image": "src/assets/AK-900 Wired Keyboard.svg",
+      "type": "product",
+      "category": "Computers"
+    },
+    {
+      "id": 3,
+      "group": "groupA",
+      "name": "IPS LCD Gaming Monitor",
+      "price": 370,
+      "originalPrice": 400,
+      "discount": 30,
+      "rating": [
+        "src/assets/yellow-star.svg",
+        "src/assets/yellow-star.svg",
+        "src/assets/yellow-star.svg",
+        "src/assets/yellow-star.svg",
+        "src/assets/yellow-star.svg"
+      ],
+      "reviews": 99,
+      "image": "src/assets/IPS LCD Gaming Monitor.svg",
+      "type": "product",
+      "category": "Gaming"
+    },
+    {
+      "id": 4,
+      "group": "groupA",
+      "name": "S-Series Comfort Chair",
+      "price": 375,
+      "originalPrice": 400,
+      "discount": 25,
+      "rating": [
+        "src/assets/yellow-star.svg",
+        "src/assets/yellow-star.svg",
+        "src/assets/yellow-star.svg",
+        "src/assets/yellow-star.svg",
+        "src/assets/star-half-filled.svg"
+      ],
+      "reviews": 99,
+      "image": "src/assets/S-Series Comfort Chair .svg",
+      "type": "product",
+      "category": "Furniture"
+    },
+    {
+      "id": 5,
+      "group": "groupA",
+      "name": "S-Series Comfort Chair",
+      "price": 375,
+      "originalPrice": 400,
+      "discount": 25,
+      "rating": [
+        "src/assets/yellow-star.svg",
+        "src/assets/yellow-star.svg",
+        "src/assets/yellow-star.svg",
+        "src/assets/yellow-star.svg",
+        "src/assets/star-half-filled.svg"
+      ],
+      "reviews": 99,
+      "image": "src/assets/S-Series Comfort Chair .svg",
+      "type": "product",
+      "category": "Furniture"
+    },
+    {
+      "id": 6,
+      "group": "groupA",
+      "name": "S-Series Comfort Chair",
+      "price": 375,
+      "originalPrice": 400,
+      "discount": 25,
+      "rating": [
+        "src/assets/yellow-star.svg",
+        "src/assets/yellow-star.svg",
+        "src/assets/yellow-star.svg",
+        "src/assets/yellow-star.svg",
+        "src/assets/star-half-filled.svg"
+      ],
+      "reviews": 99,
+      "image": "src/assets/S-Series Comfort Chair .svg",
+      "type": "product",
+      "category": "Furniture"
+    },
+    {
+      "id": 7,
+      "group": "groupB",
+      "name": "The north coat",
+      "price": 260,
+      "originalPrice": 360,
+      "rating": [
+        "src/assets/yellow-star.svg",
+        "src/assets/yellow-star.svg",
+        "src/assets/yellow-star.svg",
+        "src/assets/yellow-star.svg",
+        "src/assets/yellow-star.svg"
+      ],
+      "reviews": 65,
+      "image": "src/assets/The north coat.svg",
+      "type": "product",
+      "category": "Clothes"
+    },
+    {
+      "id": 8,
+      "group": "groupB",
+      "name": "Gucci duffle bag",
+      "price": 960,
+      "originalPrice": 1160,
+      "rating": [
+        "src/assets/yellow-star.svg",
+        "src/assets/yellow-star.svg",
+        "src/assets/yellow-star.svg",
+        "src/assets/yellow-star.svg",
+        "src/assets/star-half-filled.svg"
+      ],
+      "reviews": 65,
+      "image": "src/assets/Gucci duffle bag.svg",
+      "type": "product",
+      "category": "Bags"
+    },
+    {
+      "id": 9,
+      "group": "groupB",
+      "name": "RGB liquid CPU Cooler",
+      "price": 160,
+      "originalPrice": 170,
+      "rating": [
+        "src/assets/yellow-star.svg",
+        "src/assets/yellow-star.svg",
+        "src/assets/yellow-star.svg",
+        "src/assets/yellow-star.svg",
+        "src/assets/star-half-filled.svg"
+      ],
+      "reviews": 65,
+      "image": "src/assets/RGB liquid CPU Cooler.svg",
+      "type": "product",
+      "category": "Computers"
+    },
+    {
+      "id": 10,
+      "group": "groupB",
+      "name": "Small BookSelf",
+      "price": 360,
+      "rating": [
+        "src/assets/yellow-star.svg",
+        "src/assets/yellow-star.svg",
+        "src/assets/yellow-star.svg",
+        "src/assets/yellow-star.svg",
+        "src/assets/yellow-star.svg"
+      ],
+      "reviews": 65,
+      "image": "src/assets/Small BookSelf.svg",
+      "type": "product",
+      "category": "Furniture"
+    },
+    {
+      "id": 11,
+      "group": "groupC",
+      "name": "Breed Dry Dog Food",
+      "price": 100,
+      "rating": [
+        "src/assets/yellow-star.svg",
+        "src/assets/yellow-star.svg",
+        "src/assets/yellow-star.svg",
+        "src/assets/gray-star.svg",
+        "src/assets/gray-star.svg"
+      ],
+      "reviews": 35,
+      "image": "src/assets/Breed Dry Dog Food.svg",
+      "type": "product",
+      "category": "Pet Food"
+    },
+    {
+      "id": 12,
+      "group": "groupC",
+      "name": "CANON EOS DSLR Camera",
+      "price": 360,
+      "rating": [
+        "src/assets/yellow-star.svg",
+        "src/assets/yellow-star.svg",
+        "src/assets/yellow-star.svg",
+        "src/assets/yellow-star.svg",
+        "src/assets/gray-star.svg"
+      ],
+      "reviews": 95,
+      "image": "src/assets/CANON EOS DSLR Camera.svg",
+      "type": "product",
+      "category": "Camera"
+    },
+    {
+      "id": 13,
+      "group": "groupC",
+      "name": "ASUS FHD Gaming Laptop",
+      "price": 700,
+      "rating": [
+        "src/assets/yellow-star.svg",
+        "src/assets/yellow-star.svg",
+        "src/assets/yellow-star.svg",
+        "src/assets/yellow-star.svg",
+        "src/assets/yellow-star.svg"
+      ],
+      "reviews": 325,
+      "image": "src/assets/ASUS FHD Gaming Laptop.svg",
+      "type": "product",
+      "category": "Gaming"
+    },
+    {
+      "id": 14,
+      "group": "groupC",
+      "name": "Curology Product Set",
+      "price": 500,
+      "rating": [
+        "src/assets/yellow-star.svg",
+        "src/assets/yellow-star.svg",
+        "src/assets/yellow-star.svg",
+        "src/assets/yellow-star.svg",
+        "src/assets/gray-star.svg"
+      ],
+      "reviews": 145,
+      "image": "src/assets/Curology Product Set.svg",
+      "type": "product",
+      "category": "Skincare"
+    },
+    {
+      "id": 15,
+      "group": "groupC",
+      "name": "Kids Electric Car",
+      "price": 960,
+      "rating": [
+        "src/assets/yellow-star.svg",
+        "src/assets/yellow-star.svg",
+        "src/assets/yellow-star.svg",
+        "src/assets/yellow-star.svg",
+        "src/assets/yellow-star.svg"
+      ],
+      "reviews": 65,
+      "image": "src/assets/Kids Electric Car.svg",
+      "color": "#FB1314",
+      "type": "product",
+      "category": "Toys"
+    },
+    {
+      "id": 16,
+      "group": "groupC",
+      "name": "Jr. Zoom Soccer Cleats",
+      "price": 1160,
+      "rating": [
+        "src/assets/yellow-star.svg",
+        "src/assets/yellow-star.svg",
+        "src/assets/yellow-star.svg",
+        "src/assets/yellow-star.svg",
+        "src/assets/yellow-star.svg"
+      ],
+      "reviews": 35,
+      "image": "src/assets/Jr. Zoom Soccer Cleats.svg",
+      "color": "#EEFF61",
+      "type": "product",
+      "category": "Toys"
+    },
+    {
+      "id": 17,
+      "group": "groupC",
+      "name": "GP11 Shooter USB Gamepad",
+      "price": 660,
+      "rating": [
+        "src/assets/yellow-star.svg",
+        "src/assets/yellow-star.svg",
+        "src/assets/yellow-star.svg",
+        "src/assets/yellow-star.svg",
+        "src/assets/star-half-filled.svg"
+      ],
+      "reviews": 55,
+      "image": "src/assets/GP11 Shooter USB Gamepad.svg",
+      "color": "#000000",
+      "type": "product",
+      "category": "Gaming",
+      "show": "show"
+    },
+    {
+      "id": 18,
+      "group": "groupC",
+      "name": "Quilted Satin Jacket",
+      "price": 660,
+      "rating": [
+        "src/assets/yellow-star.svg",
+        "src/assets/yellow-star.svg",
+        "src/assets/yellow-star.svg",
+        "src/assets/yellow-star.svg",
+        "src/assets/star-half-filled.svg"
+      ],
+      "reviews": 55,
+      "image": "src/assets/Quilted Satin Jacket.svg",
+      "color": "#184A48",
+      "type": "product",
+      "category": "Clothes"
+    }
+  ]
